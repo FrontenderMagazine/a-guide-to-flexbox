@@ -464,8 +464,7 @@ SASS-`@mixin` для облегчения боли:
 [9]: http://css-tricks.com/using-flexbox/
 [10]: http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/#fallbacks
 
-[Cхема из спецификации, разъясняющей основную идею 
-flex-лейаутов]: img/flexbox.png "Cхема из спецификации, разъясняющей основную идею flex-лейаутов"
+[Cхема из спецификации, разъясняющей основную идею flex-лейаутов]: img/flexbox.png "Cхема из спецификации, разъясняющей основную идею flex-лейаутов"
 [Значения свойства justify-content]: img/justify-content.png "Значения свойства justify-content"
 [Значения свойства align-items]: img/align-items.png "Значения свойства align-items"
 [Значения свойства align-content]: img/align-content.png "Значения свойства align-content"
