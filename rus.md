@@ -454,7 +454,7 @@ SASS-`@mixin` для облегчения боли:
       @include order(2);
     }
 
-[1]: http://css-tricks.com/almanac/properties/g/grid/
+[1]: https://css-tricks.com/snippets/css/complete-guide-grid/
 [2]: http://www.w3.org/TR/css3-flexbox/
 [3]: https://developer.mozilla.org/en-US/docs/CSS/Tutorials/Using_CSS_flexible_boxes
 [4]: http://dev.opera.com/articles/view/flexbox-basics/
